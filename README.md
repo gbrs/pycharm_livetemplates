@@ -1,0 +1,1 @@
+Мой livetemplate для PyCharm
